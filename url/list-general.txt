@@ -129442,3 +129442,12 @@ cloudflaretest.com
 cloudflarewarp.com
 cloudflare-ech.com
 encryptedsni.com
+*.t.me
+*.telegram.me
+*.telegram.org
+*.nicegram.app
+*.telesco.pe
+*.tg.dev
+t.me
+telegram.org
+rtmps://dc4-1.rtmp.t.me/s/
